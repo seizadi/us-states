@@ -19,8 +19,8 @@ info.onAdd = function (map) {
 };
 
 info.update = function (props) {
-    this._div.innerHTML = '<h4>US Population Density</h4>' +  (props ?
-        '<b>' + props.name + '</b><br />' + props.density + ' people / mi<sup>2</sup>'
+    this._div.innerHTML = '<h4>US Sales Territories</h4>' +  (props ?
+        '<b>' + props.name + '</b><br />' + salesReps[territoryStates[props.name]]
         : 'Hover over a state');
 };
 

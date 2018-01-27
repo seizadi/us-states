@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90732671-e716-441d-88b9-2c2f6c40847a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/example2/sales-reps.js" />
+      <change beforePath="$PROJECT_DIR$/example2/main.js" afterPath="$PROJECT_DIR$/example2/main.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,12 +26,12 @@
       <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/example2/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="96" column="49" lean-forward="false" selection-start-line="96" selection-start-column="49" selection-end-line="96" selection-end-column="49" />
+            <state relative-caret-position="330">
+              <caret line="22" column="82" lean-forward="false" selection-start-line="22" selection-start-column="82" selection-end-line="22" selection-end-column="82" />
               <folding>
-                <marker date="1517077144000" expanded="true" signature="265:271" ph="©" />
-                <marker date="1517077144000" expanded="true" signature="2124:2130" ph="©" />
-                <marker date="1517077144000" expanded="true" signature="2441:2452" ph="..." />
+                <marker date="1517078425000" expanded="true" signature="265:271" ph="©" />
+                <marker date="1517078425000" expanded="true" signature="2119:2125" ph="©" />
+                <marker date="1517078425000" expanded="true" signature="2436:2447" ph="..." />
               </folding>
             </state>
           </provider>
@@ -55,7 +54,7 @@
       <file leaf-file-name="sales-reps.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/example2/sales-reps.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
+            <state relative-caret-position="540">
               <caret line="36" column="29" lean-forward="false" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
               <folding />
             </state>
@@ -98,8 +97,8 @@
         <option value="$PROJECT_DIR$/main.js" />
         <option value="$PROJECT_DIR$/example2/us-states.js" />
         <option value="$PROJECT_DIR$/example2/index.html" />
-        <option value="$PROJECT_DIR$/example2/main.js" />
         <option value="$PROJECT_DIR$/example2/sales-reps.js" />
+        <option value="$PROJECT_DIR$/example2/main.js" />
       </list>
     </option>
   </component>
@@ -267,19 +266,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/example2/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="96" column="49" lean-forward="false" selection-start-line="96" selection-start-column="49" selection-end-line="96" selection-end-column="49" />
+        <state relative-caret-position="330">
+          <caret line="22" column="82" lean-forward="false" selection-start-line="22" selection-start-column="82" selection-end-line="22" selection-end-column="82" />
           <folding>
-            <marker date="1517077144000" expanded="true" signature="265:271" ph="©" />
-            <marker date="1517077144000" expanded="true" signature="2124:2130" ph="©" />
-            <marker date="1517077144000" expanded="true" signature="2441:2452" ph="..." />
+            <marker date="1517078425000" expanded="true" signature="265:271" ph="©" />
+            <marker date="1517078425000" expanded="true" signature="2119:2125" ph="©" />
+            <marker date="1517078425000" expanded="true" signature="2436:2447" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/example2/sales-reps.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
+        <state relative-caret-position="540">
           <caret line="36" column="29" lean-forward="false" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
           <folding />
         </state>
