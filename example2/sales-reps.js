@@ -10,7 +10,7 @@ var territorys = [
 var territoryColors = {
     "South East":"yellow",
     "North East":"blue",
-    "Mid Atlantic":"black",
+    "Mid Atlantic":"#00FFFF",
     "Mid West":"green",
     "TOLA":"orange",
     "North West":"purple",
