@@ -84,8 +84,6 @@ geojson = L.geoJson(statesData, {
     onEachFeature: onEachFeature
 }).addTo(map);
 
-map.attributionControl.addAttribution('Population data &copy; <a href="http://census.gov/">US Census Bureau</a>');
-
 
 var legend = L.control({position: 'bottomright'});
 
@@ -97,7 +95,10 @@ legend.onAdd = function (map) {
     for (var i = 0; i < territorys.length; i++) {
         labels.push(
             '<i style="background:' + territoryColors[territorys[i]] + '"></i> ' +
-            salesReps[territorys[i]]);
+            territorys[i]);
+        labels.push(
+            '<i style="background:' + territoryColors[territorys[i]] + '"></i> ' +
+            '( ' + salesReps[territorys[i]] + ' )');
     };
     div.innerHTML = labels.join('<br>');
     return div;
